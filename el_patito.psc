@@ -31,6 +31,6 @@ Algoritmo Promedio
 	prom<-acum/n
 	
 	Escribir "El promedio es: ",prom
-	
+	Escribir "Programa hecho por Gema Romero"
 FinAlgoritmo
 
